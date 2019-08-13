@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+h2{
+    color: Brown;
+}
+body{
+    text-align: center;
+    color: magenta;
+    font-style: italic;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: initial;
+    line-height: normal;
+}
