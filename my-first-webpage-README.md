@@ -14,7 +14,7 @@ _{This page is an assignment from Epicodus, to gain experience writing and editi
 * _Read it's lists_
 * _Contemplate the content in front of mirror_
 
-_{Ok so you found yourself on this page, and you're wondering, what can this page do for me? basically, the page will do nothing for you, but I reserve the brainspace to allow for life changes as a possibility.  For now, this page accepts no user interaction}_
+_{For now, this page accepts no user interaction}_
 
 ## Known Bugs
 
